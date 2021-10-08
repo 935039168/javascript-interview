@@ -1,7 +1,7 @@
-# javascript-interview
+# javascript-notes
 
 ## 项目介绍
-* 内容：前端面试的小白级别知识点
+* 内容：前端笔记
 * 语言：JavaScript
 
 ## 说明
